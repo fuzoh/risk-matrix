@@ -1,0 +1,42 @@
+{
+  "id": 43252,
+  "name": "Matrice standard",
+  "axis": {
+    "x": {
+      "name": "Gravité",
+      "length": 5,
+      "labels": [
+        "Insignifiant",
+        "Faible"
+      ]
+    },
+    "y": {
+      "name": "Probabilité",
+      "length": 5,
+      "labels": [
+        "Improbable",
+        "Peu probable"
+      ]
+    }
+  },
+  "tolerance": [
+    {
+      "index": 0,
+      "name": "Acceptable",
+      "description": "le dang...",
+      "color": "EF4334",
+      "cells": [
+        {
+          "x": 1,
+          "y": 3
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "name": "A surveiller",
+      "description": "le dang...",
+      "color": "EF4343"
+    },
+  ]
+}
